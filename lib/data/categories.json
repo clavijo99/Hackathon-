@@ -1,0 +1,23 @@
+[
+    {
+        "categorie":"deportes"
+    },
+    {
+        "categorie":"musica"
+    },
+    {
+        "categorie":"infraestructura"
+    },
+    {
+        "categorie":"cultura"
+    },
+    {
+        "categorie":"informativo"
+    },
+    {
+        "categorie":"tecnologia"
+    },
+    {
+        "categorie":"seguridad"
+    }
+]
