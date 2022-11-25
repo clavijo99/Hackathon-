@@ -1,0 +1,35 @@
+[
+    {
+        "categorie":"Deportes"
+    },
+    {
+        "categorie":"Musica"
+    },
+    {
+        "categorie":"Infraestructura"
+    },
+    {
+        "categorie":"Cultura"
+    },
+    {
+        "categorie":"Informativo"
+    },
+    {
+        "categorie":"Tecnologia"
+    },
+    {
+        "categorie":"Seguridad"
+    },
+    {
+        "categorie":"Empleo"
+    },
+    {
+        "categorie":"Comercio"
+    },
+    {
+        "categorie":"Educacion"
+    },
+    {
+        "categorie":"Salud"
+    }
+]
