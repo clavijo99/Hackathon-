@@ -19,5 +19,17 @@
     },
     {
         "categorie":"seguridad"
+    },
+    {
+        "categorie":"empleo"
+    },
+    {
+        "categorie":"comercio"
+    },
+    {
+        "categorie":"educacion"
+    },
+    {
+        "categorie":"salud"
     }
 ]
